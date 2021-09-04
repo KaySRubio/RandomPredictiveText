@@ -28,5 +28,15 @@ Uses a Markov Model to generate text that is random but in the style of the orig
   					<li>Predictive text suggestions in email or smart phones</li>
   					<li>Syntax-error checking in compilers</li>
   				</ul>
+    <h2>How to run on your computer</h2>
+      <ol>
+        <li>Make sure you have java machine installed so you can compile the program</li>
+        <li>Download the 3 .java files and save them in the same folder</li>
+        <li>Compile them (you can compile Project2.java and this should compile the others)</li>
+        <li>Save a text file in the same folder as Project2.java</li>
+        <li>Run Project2 and answer the prompts. Include the name of the text file.</li>
+        <li>Although the project can run in orders higher than 3, I suggest using orders 1-3 since order 4+ may be too similar to the original text</li>
+        <li>Have fun!</li>
+  </ol>
 </body>
 </html> 
