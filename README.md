@@ -10,7 +10,6 @@ Uses a Markov Model to generate text that is random but in the style of the orig
   			<p>I coded a program that uses a two-dimensional linked list structure to generate Markov models from a text file.</p>
   			<br>
   			<p>To generate text that is random but in the style of the original text, the program randomly chooses a word, then randomly chooses another word that follows that word anywhere in the text.  Words that more frequently follow the first are more likely to be chosen.  Then, the program chooses another word that follows the second word, and so on.</p>
-  <h2>View more detailed explanation including UML diagram on my <a href="https://www.k-rubio.com/oop.html">digital portfolio</a></h2>
    <h2>Skills Demonstrated:</h2>
   			<ul>
   				<li>Programmer-defined classes and methods</li>
